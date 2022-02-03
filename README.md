@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @04M04
 - 👀 I’m interested in creating.
-- 🌱 I’m currently learning Flutter and tailwindcss.
+- 🌱 I’m currently learning Flutter.
 - 📫 How to reach me via direct message.
 
 <!---
