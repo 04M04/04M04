@@ -1,6 +1,6 @@
 - 👋 Hi, I’m a 25 year old Human from Austria
 - 👀 I’m interested in creating.
-- 🌱 I’m currently learning a ton of differend things like Flutter, deeper C++ knowledge and some pen-testing stuff.
+- 🌱 I’m currently learning a ton of different things like Flutter, deeper C++ knowledge and some pen-testing stuff.
 - 😋 I enjoy working on:
   - 🤖 DIY-Hardware projects with RPi, ESP32, Pico and ....
   - 🌐 Web programming
